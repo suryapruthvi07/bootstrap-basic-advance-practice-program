@@ -1,0 +1,64 @@
+body{
+    background-color:blue;  
+    margin-right: 300px;
+    margin-left: 300px  ;
+    
+}
+.main{
+    margin-top: 20px;
+    text-align: center;
+    color: white;
+    margin-bottom: 30px;
+}
+.main a{
+    color: white;
+}
+.container
+{
+    
+}
+
+.one {
+  
+}
+
+.card{
+    width: 200px;
+    height: 300px;
+    border-top: 10px solid orange;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    padding-bottom: 20px;
+   
+}
+
+.card a{
+    color: black;
+    padding-left: 55px;
+    
+}
+
+.card h4{
+    padding-left: 25px;
+    color: blue;
+
+  
+}
+
+.btn {
+    padding-top: 8px;
+    padding-bottom:8px;
+    padding-left: 60px;
+    padding-right: 60px;
+    margin-top: 30px;
+    border-radius: 30px;
+   border: 3px red solid;
+    margin-left: 350px;
+    background: blue;
+    
+}
+footer{
+   
+    background-color: rgb(47, 41, 41);
+}
+
